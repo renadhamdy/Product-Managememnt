@@ -8,7 +8,7 @@ Users can browse curated recipes for inspiration
 Ingredients are directly linked to available stock
 Recipes become unavailable if required ingredients are out of stock
 
-#Problem Statement
+Problem Statement:
 
 Many users struggle with:
 
@@ -17,7 +17,7 @@ Planning meals efficiently
 Knowing which ingredients to buy
 Missing items during grocery shopping
 
-#Proposed Solution
+Proposed Solution:
 
 Introduce a Recipe Section within Talabat Mart that:
 
